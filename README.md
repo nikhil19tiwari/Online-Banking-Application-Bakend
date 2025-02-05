@@ -14,5 +14,27 @@
 
 #Spring Cloud Config: For centralized, externalized configuration management, ensuring consistent application settings across different environments.
 
+#Signup page
 ![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190222.png)
+
+#Login page
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190258.png)
+
+#Account Open Page
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190246.png)
+
+#User Interface
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190328.png)
+
+#Deposite Form
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190342.png)
+
+
+#Withdraw Form
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190355.png)
+
+
+
+#History Data
+![Image Description](https://github.com/nikhil19tiwari/Online-Banking-Application-Bakend/blob/main/Screenshot%202025-01-30%20190419.png)
 
